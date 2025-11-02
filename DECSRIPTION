@@ -1,9 +1,9 @@
 Package: Lexner
-Title: Sqaure Root Function
+Title: Hello_World Function
 Version: 0.0.0.9000
 Authors@R: 
     person("Jacob", "Lexner", , "jacoblexner@usf.edu", role = c("aut", "cre"))
-Description: This package takes a number and returns the square root of the number back.
+Description: This package tells you hello world.
 Depends:R (>= 3.1.2)
 Imports: ggplot2,dplyr 
 License: CC0
